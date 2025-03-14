@@ -46,3 +46,16 @@ Test:
 You can test by running test.py
 Or
 By using swagger UI by visiting  http://localhost:8000/docs
+Sample Input:
+```python
+{
+    "MedInc": 3.2,
+    "HouseAge": 20.0,
+    "AveRooms": 5.4,
+    "AveBedrms": 1.2,
+    "Population": 1200.0,
+    "AveOccup": 2.5,
+    "Latitude": 37.0,
+    "Longitude": -122.0
+}
+```
